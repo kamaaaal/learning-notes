@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "07dbaaa3902c77d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "32f787e259554ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de426c160a15599e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/oop/Stack and Heap memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac627e3816c0565a",
+    "type": "split",
+    "children": [
+      {
+        "id": "10538be843de914d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60c8af97f5c366b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6dfa9dbaa75647d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a28ffe0c5a9989d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5f7dd23a6b51154",
+    "type": "split",
+    "children": [
+      {
+        "id": "80efa3fc32e2946f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2637c3d9cf113132",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c++/oop/Stack and Heap memory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8c0f5e02f49f9b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "c++/oop/Stack and Heap memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c60e73c223d3935f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4263c9a9ac21c31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c++/oop/Stack and Heap memory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de426c160a15599e",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "c++/oop/Stack and Heap memory.md",
+    "c++/oop",
+    "c++",
+    "create a link.md",
+    "containerization/Untitled",
+    "containerization"
+  ]
+}
