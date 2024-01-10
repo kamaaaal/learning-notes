@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++/oop/Stack and Heap memory.md",
+                "file": "c++/oop/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c++/oop/Stack and Heap memory.md",
+                "file": "c++/oop/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c++/oop/Stack and Heap memory.md",
+                "file": "c++/oop/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c++/oop/Stack and Heap memory.md"
+                "file": "c++/oop/Heap.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de426c160a15599e",
+  "active": "a60c8af97f5c366b",
   "lastOpenFiles": [
-    "Welcome.md",
+    "c++/oop/attachments",
+    "c++/oop/attachments/Pasted image 20240110072431.png",
     "c++/oop/Stack and Heap memory.md",
+    "c++/oop/Heap.md",
+    "Pasted image 20240110072313.png",
+    "Pasted image 20240110072122.png",
+    "Heap.md",
+    "Welcome.md",
     "c++/oop",
     "c++",
     "create a link.md",

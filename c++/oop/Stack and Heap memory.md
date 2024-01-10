@@ -73,3 +73,5 @@ int main (){
 	int* total = add(2,4);
 }
 ```
+
+[Heap](/c++/oop/Heap)
