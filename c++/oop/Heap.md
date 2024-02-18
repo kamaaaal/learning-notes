@@ -24,8 +24,7 @@ int main (){
 
 	the above actually does creates two values the num value in heap and a pointer in the stack pointing to heap, as we havent initialized the value of it points to nothing
 
-![[Pasted image 20240110072431.png]]
-
+[c++/oop/attachments/Pasted image 20240110072431.png]
 
 in the below program a square class is defined and it instantiated on heap and stack, objects living in stack its properties can be read directly using `.` operator but for the objects living in heap we have to deference the value first and then access its attributes and methods `(*obj).method()`.
 
