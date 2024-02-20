@@ -2,8 +2,7 @@ data stored in database cannot be in isolation it should be related so we can pr
 
 in the below example. the orders table is related to customers table by having the same customer id
 
-![[Pasted image 20240218072910.png]]
-
+![](Pasted%20image%2020240220072814.png)
 	in these table -
 		customer id , firstname etc are fields.
 		 and the values / rows are records.

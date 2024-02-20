@@ -1,4 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "c++/oop/attachments"
+  "newFileFolderPath": "c++/oop/attachments",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Database engineer\\attachments"
 }
