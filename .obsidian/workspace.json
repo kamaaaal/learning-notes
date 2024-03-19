@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database engineer/introduction/databases and data/How is data related.md",
+                "file": "Database engineer/introduction/3) basic database structure/What are tables in Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database engineer/introduction/databases and data/How is data related.md",
+                "file": "Database engineer/introduction/3) basic database structure/What are tables in Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database engineer/introduction/databases and data/How is data related.md",
+                "file": "Database engineer/introduction/3) basic database structure/What are tables in Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database engineer/introduction/databases and data/How is data related.md"
+                "file": "Database engineer/introduction/3) basic database structure/What are tables in Databases.md"
               }
             }
           }
@@ -148,19 +148,25 @@
   },
   "active": "de426c160a15599e",
   "lastOpenFiles": [
-    "Database engineer/introduction/databases and data/Intro to SQL.md",
+    "Database engineer/introduction/3) basic database structure/Types of Relation.md",
+    "Database engineer/introduction/3) basic database structure/What are tables in Databases.md",
+    "Database engineer/introduction/1 intro to sql/SQL Syntax.md",
+    "Database engineer/introduction/3) basic database structure",
+    "Database engineer/introduction/2) databases and data/intro to database.md",
+    "Database engineer/introduction/1 intro to sql/Advantages of SQL.md",
+    "Database engineer/introduction/1 intro to sql/Intro to SQL, Usage.md",
+    "Database engineer/introduction/2) databases and data/How is data related.md",
+    "Database engineer/introduction/1 intro to sql",
     "Pasted image 20240220072030.png",
     "Pasted image 20240220071430.png",
     "Pasted image 20240218072910.png",
-    "Database engineer/introduction/databases and data/How is data related.md",
     "Database engineer/attachments/Pasted image 20240220072814.png",
     "Database engineer/attachments/Pasted image 20240220072706.png",
     "Database engineer/attachments/Pasted image 20240220072525.png",
     "Database engineer/attachments/Pasted image 20240220072151.png",
     "Database engineer/attachments",
-    "Database engineer/introduction/databases and data/Alternate database types.md",
-    "Database engineer/introduction/databases and data/intro to database.md",
-    "Database engineer/introduction/databases and data",
+    "Database engineer/introduction/2) databases and data/Alternate database types.md",
+    "Database engineer/introduction/2) databases and data",
     "c++/oop/attachments/2024-02-18.md",
     "Heap.md",
     "Database engineer/introduction",
@@ -178,8 +184,6 @@
     "Pasted image 20240110072313.png",
     "Pasted image 20240110072122.png",
     "c++/oop",
-    "c++",
-    "create a link.md",
-    "containerization/Untitled"
+    "create a link.md"
   ]
 }
